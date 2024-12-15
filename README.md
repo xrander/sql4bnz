@@ -1,2 +1,3 @@
-# sql4bnz
-SQL Class Materials for Business
+# SQL with PostGresql
+
+This is a repository to practice SQL skills. 
